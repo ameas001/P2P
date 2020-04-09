@@ -1,6 +1,6 @@
-// Name: Chris Wong
-// Quarter, Year: spring 2013
-// Lab: 2
+// Name:
+// Quarter, Year:
+// Lab:
 //
 // This file is to be modified by the student.
 // quadtree.cpp
